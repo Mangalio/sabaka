@@ -1,0 +1,143 @@
+h1 {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-style: normal;
+    font-weight: 50px;
+    font-size: 50pxpx;
+    color: #380707;
+    text-align: center;
+}
+
+body {
+
+}
+
+span {
+    color: white;
+}
+
+ {
+    font-size: 4ch;
+}
+
+nav {
+    display: flex;
+    justify-content: space-around;
+    font-size: 2em;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    
+    
+    
+}
+
+main h1 {
+    text-align: center;
+    color: 
+    black;
+}
+
+main p {
+    color: black;
+    background-color: cadetblue;
+    font-size: 25px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    border: solid 3px skyblue);
+    border-radius: 10px;
+    margin: 10xpx;
+    padding: 10px;
+}
+
+.grid-container {
+  display: grid;
+  grid-template-columns: auto auto;
+
+}
+
+.sup {
+    color: black;
+    background-color: blue;
+    text-align: center;
+}
+
+footer p {
+    
+}
+
+.dona {
+    text-align: center;
+    font-family:'Times New Roman', Times, serif;
+}
+
+.Promo {
+    text-align: center;
+}
+
+.don a:hover {
+    color: bisque;
+}
+
+.sup:hover {
+    border: 3px solid white;
+    background-color: #23f00c;
+}
+
+.promot:hover {
+    border: 3px solid white;
+    text-align: center;
+    background-color: #23f00c;
+}
+
+.promot {
+    text-align: center;
+}
+
+.donat:hover {
+    border: 3px solid white;
+    background-color: #23f00c;
+}
+
+.donat {
+    text-align: center;
+}
+
+.don a{
+    list-style-type: none;
+    text-decoration: none;
+    color: black;
+}
+
+
+body {
+    background:linear-gradient(220deg,black,#4a0613, #1f0f30) ;
+}
+
+.ppp {
+    color: #000;
+    background:linear-gradient(white, blue, yellow);
+    -webkit-background-clip:text;
+    -webkit-text-fill-color: transparent;
+    font-size: 25px;
+}
+
+.Promocodee {
+    background:linear-gradient(white, red) ;
+    -webkit-text-fill-color: transparent;
+    -webkit-background-clip: text;
+}
+
+.donaaa {
+    background:linear-gradient(pink, purple) ;
+    -webkit-text-fill-color: transparent;
+    -webkit-background-clip: text;
+
+}
+
+.suppo {
+    background: linear-gradient(white,green);
+    -webkit-text-fill-color: transparent;
+    -webkit-background-clip: text;
+}
+
+footer a {
+    color: white;
+    text-decoration: none;
+}
